@@ -4,7 +4,7 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=lockjio&count_private=true&hide=issues&show_icons=true" />
 </a>
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=lockjio&layout=compact">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lockjio&layout=compact" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lockjio&layout=compact" />
 </a>
 
 <!--
