@@ -2,6 +2,8 @@
 
 ![Jio's github stats](https://github-readme-stats.vercel.app/api?username=lockjio&count_private=true&hide=stars,issues)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lockjio)](https://github.com/lockjio/github-readme-stats)
+
 <!--
 **lockjio/lockjio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
