@@ -1,4 +1,4 @@
-![Jio's github stats](https://github-readme-stats.vercel.app/api?username=lockjio&count_private=true&hide=issues,stars&show_icons=true)
+![Jio's github stats](https://github-readme-stats.vercel.app/api?username=lockjio&count_private=true&hide=issues,&show_icons=true)
 
 [![Jio's top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lockjio&hide=makefile&layout=compact)](https://github.com/lockjio/github-readme-stats)
 
