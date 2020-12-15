@@ -2,7 +2,7 @@
   <tr>
   <td width="50%">
 
-<br><p align="center">![Jio's github stats](https://github-readme-stats.vercel.app/api?username=lockjio&theme=vue-dark&count_private=true&hide=issues,stars&show_icons=true)
+<br><p align="center">![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)<br>[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jio.buenviaje@gmail.com)<br>[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/seijhyo/)
 </p>
   </td>
   <td width="50%">
