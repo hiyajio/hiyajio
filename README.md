@@ -10,16 +10,19 @@
 <br><p align="center">![Jio's github stats](https://github-readme-stats.vercel.app/api?username=lockjio&theme=vue-dark&count_private=true&hide=issues,stars&show_icons=true)
 </p>
   </td>
-  <tr>
+  </tr>
+ <tr>
   <td width="50%">
-      
+
 &nbsp; <br> [![Spotify](https://novatorem-8xegmkvk9.vercel.app/api/spotify)](https://open.spotify.com/user/jiyooo)
 
   </td>
   <td width="50%">
 
-<p align="center">![Jio's github stats](https://github-readme-stats.vercel.app/api?username=lockjio&theme=vue-dark&count_private=true&hide=issues,stars&show_icons=true)<br><br>
+<br><p align="center">![Jio's github stats](https://github-readme-stats.vercel.app/api?username=lockjio&theme=vue-dark&count_private=true&hide=issues,stars&show_icons=true)
+</p>
   </td>
+  </tr>
   </table>
 
 <!--
