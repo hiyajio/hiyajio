@@ -19,7 +19,7 @@
   </td>
   <td width="50%">
 
-<br><p align="center">![Jio's github stats](https://github-readme-stats.vercel.app/api?username=lockjio&theme=vue-dark&count_private=true&hide=issues,stars&show_icons=true)
+<br><p align="center">[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lockjio/)
 </p>
   </td>
   </tr>
