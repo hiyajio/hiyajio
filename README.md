@@ -1,4 +1,4 @@
-[![Spotify](https://lockjio.vercel.app/api/spotify)](https://open.spotify.com/user/jiyooo)
+[![Spotify](https://novatorem-8xegmkvk9.vercel.app/api/spotify)](https://open.spotify.com/user/jiyooo)
 
 ![Jio's github stats](https://github-readme-stats.vercel.app/api?username=lockjio&count_private=true&hide=issues,stars&show_icons=true)
 
