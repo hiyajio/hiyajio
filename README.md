@@ -1,7 +1,7 @@
 <table width="100%"> 
   <tr>
   <td width="50%">
-      
+    <h1>Now Playing</h1>
 &nbsp; <br> [![Spotify](https://novatorem-8xegmkvk9.vercel.app/api/spotify)](https://open.spotify.com/user/jiyooo)
 
   </td>
