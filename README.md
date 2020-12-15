@@ -18,8 +18,7 @@
 ![Bash](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 <table width="100%"> 
   <tr>
-  <td width="50%">
-  
+    <td width="50%">
 <br> [![Spotify](https://novatorem-8xegmkvk9.vercel.app/api/spotify)](https://open.spotify.com/user/jiyooo)
   </td>
   <td width="50%">
