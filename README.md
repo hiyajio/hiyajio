@@ -1,5 +1,5 @@
 <table width="100%" style="border-radius:10px;"> 
-  <tr>
+  <tr style="border-radius:10px;">
   <td width="50%">
       
 &nbsp; <br> [![Spotify](https://novatorem-8xegmkvk9.vercel.app/api/spotify)](https://open.spotify.com/user/jiyooo)
