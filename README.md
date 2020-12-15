@@ -20,12 +20,12 @@
   <tr>
     <td width="50%">
 
-<br> [![Spotify](https://novatorem-8xegmkvk9.vercel.app/api/spotify)](https://open.spotify.com/user/jiyooo)
+<br> [![Spotify](https://novatorem-8xegmkvk9.vercel.app/api/spotify)](https://open.spotify.com/user/jiyooo) <br>
     </td>
     <td width="50%">
 
 <br> <p align="center">![Jio's github stats](https://github-readme-stats.vercel.app/api?username=lockjio&theme=vue&count_private=true&hide=issues,stars&show_icons=true)
-</p>
+</p> <br>
     </td>
   </tr>
 </table>
