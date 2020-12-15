@@ -1,3 +1,5 @@
+[<img src="https://novatorem.jbuenvia.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/jiyooo)
+
 ![Jio's github stats](https://github-readme-stats.vercel.app/api?username=lockjio&count_private=true&hide=issues,stars&show_icons=true)
 
 <!--
