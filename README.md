@@ -17,9 +17,8 @@
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Bash](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-![Jio's github stats](https://github-readme-stats.vercel.app/api?username=lockjio&theme=vue&count_private=true&hide=issues,stars&show_icons=true)
+[![Jio's github stats](https://github-readme-stats.vercel.app/api?username=lockjio&theme=vue&count_private=true&hide=issues,stars&show_icons=true)](https://github.com/lockjio)
 
-[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lockjio)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lockjio/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/seijhyo/)
 
