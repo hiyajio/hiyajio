@@ -7,7 +7,7 @@
   </td>
   <td width="50%">
 
-<br><p align="center">![Jio's github stats](https://github-readme-stats.vercel.app/api?username=lockjio&count_private=true&hide=issues,stars&show_icons=true)<br><br>
+<br><p align="center">![Jio's github stats](https://github-readme-stats.vercel.app/api?username=lockjio&theme=dark&count_private=true&hide=issues,stars&show_icons=true)<br><br>
   [![Linkedin](https://img.shields.io/badge/linked-in-369?style=for-the-badge&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/lockjio/)
 </p>
   </td>
