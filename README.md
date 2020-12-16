@@ -27,3 +27,5 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lockjio/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/seijhyo/)
+
+![Animoji](https://user-images.githubusercontent.com/50670255/102288131-cfe3cb00-3f09-11eb-830c-da5d94511e8f.GIF)
