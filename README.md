@@ -31,16 +31,13 @@
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
 
-
 ## Activity :metal: 
 
 [![Jio's github stats](https://github-readme-stats.vercel.app/api?username=lockjio&theme=vue&count_private=true&hide=issues,stars&show_icons=true)](https://github.com/lockjio)
 
-
 ## Rotation :call_me_hand: 
 
 [![Spotify](https://novatorem-8xegmkvk9.vercel.app/api/spotify)](https://open.spotify.com/user/jiyooo)
-
 
 ## Connect :v: 
 
