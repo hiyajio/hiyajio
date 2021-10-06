@@ -43,8 +43,8 @@
 ![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
 
 ## Activity :metal: 
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/saejhi/saejhi/blob/master/devcard.svg" width="300" alt="Jio's Dev Card"/></a>
 [![Jio's github stats](https://github-readme-stats.vercel.app/api?username=saejhi&theme=vue&count_private=true&hide=issues,stars&show_icons=true)](https://github.com/lockjio)
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/saejhi/saejhi/blob/master/devcard.svg" width="300" alt="Jio's Dev Card"/></a>
 
 ## Rotation :call_me_hand: 
 [![Spotify](https://novatorem-8xegmkvk9.vercel.app/api/spotify)](https://open.spotify.com/user/jiyooo)
