@@ -44,6 +44,7 @@
 
 ## Activity :metal: 
 [![Jio's github stats](https://github-readme-stats.vercel.app/api?username=saejhi&theme=vue&count_private=true&hide=issues,stars&show_icons=true)](https://github.com/saejhi)
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/saejhi/saejhi/blob/master/devcard.svg" width="300" alt="Jio's Dev Card"/></a>
 
 ## Rotation :call_me_hand: 
 [![Spotify](https://novatorem-8xegmkvk9.vercel.app/api/spotify)](https://open.spotify.com/user/jiyooo)
