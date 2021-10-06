@@ -52,5 +52,3 @@
 [![Website](https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white)](https://jbuenviaje.com/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/saejhi/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/saejhi/)
-
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/saejhi/saejhi/blob/master/devcard.svg" width="300" alt="Jio's Dev Card"/></a>
