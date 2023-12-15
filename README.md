@@ -4,8 +4,5 @@
 ## Activity :metal: 
 [![Jio's github stats](https://github-readme-stats.vercel.app/api?username=hiyajio&theme=vue&count_private=true&hide=issues,stars&show_icons=true)](https://github.com/hiyajio)
 
-## Rotation :call_me_hand: 
-[![Spotify](https://novatorem-8xegmkvk9.vercel.app/api/spotify)](https://open.spotify.com/user/jiyooo)
-
 ## Connect :v: 
 [![Website](https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white)](https://jbuenviaje.com/) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hiyajio/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/hiyajio/)
